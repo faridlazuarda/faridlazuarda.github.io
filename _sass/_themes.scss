@@ -35,13 +35,13 @@
   }
 
   #light-toggle-dark {
-    padding-left: 10px;
-    padding-top: 12px;
-    display: block;
+    display: none;
   }
 
   #light-toggle-light {
-    display: none;
+    padding-left: 10px;
+    padding-top: 12px;
+    display: block;
   }
 
   .repo-img-light {

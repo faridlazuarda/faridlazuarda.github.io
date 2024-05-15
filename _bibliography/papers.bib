@@ -1,93 +1,160 @@
 ---
 ---
-
-@string{aps = {American Physical Society,}}
-
-@book{einstein1920relativity,
-  title={Relativity: the Special and General Theory},
-  author={Einstein, Albert},
-  year={1920},
-  publisher={Methuen & Co Ltd},
-  html={relativity.html}
+@inproceedings{adilazuarda-etal-2022-indorobusta,
+    title = "{I}ndo{R}obusta: Towards Robustness Against Diverse Code-Mixed {I}ndonesian Local Languages",
+    author = "Adilazuarda, Muhammad Farid  and
+      Cahyawijaya, Samuel  and
+      Winata, Genta Indra  and
+      Fung, Pascale  and
+      Purwarianti, Ayu",
+    editor = "Ahuja, Kabir  and
+      Anastasopoulos, Antonios  and
+      Patra, Barun  and
+      Neubig, Graham  and
+      Choudhury, Monojit  and
+      Dandapat, Sandipan  and
+      Sitaram, Sunayana  and
+      Chaudhary, Vishrav",
+    booktitle = "Proceedings of the First Workshop on Scaling Up Multilingual Evaluation",
+    month = nov,
+    year = "2022",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.sumeval-1.5",
+    pages = "25--34",
+    abbr={SUMEval @AACL 2022},
+    abstract={Significant progress has been made on Indonesian NLP. Nevertheless, exploration of the code-mixing phenomenon in Indonesian is limited, despite many languages being frequently mixed with Indonesian in daily conversation. In this work, we explore code-mixing in Indonesian with four embedded languages, i.e., English, Sundanese, Javanese, and Malay; and introduce IndoRobusta, a framework to evaluate and improve the code-mixing robustness. Our analysis shows that the pre-training corpus bias affects the model's ability to better handle Indonesian-English code-mixing when compared to other local languages, despite having higher language diversity.},
+    url={https://aclanthology.org/2022.sumeval-1.5/},
+    pdf={https://aclanthology.org/2022.sumeval-1.5/},
+    booktitle = {AACL'22 Workshop on Scaling Up Multilingual Evaluation},
+    selected={true},
+    bibtex_show  = {true},
 }
 
-@book{einstein1956investigations,
-  bibtex_show={true},
-  title={Investigations on the Theory of the Brownian Movement},
-  author={Einstein, Albert},
-  year={1956},
-  publisher={Courier Corporation},
-  preview={brownian-motion.gif}
+@misc{adilazuarda2024lingualchemy,
+  title={LinguAlchemy: Fusing Typological and Geographical Elements for Unseen Language Generalization}, 
+  author={Muhammad Farid Adilazuarda and Samuel Cahyawijaya and Alham Fikri Aji and Genta Indra Winata and Ayu Purwarianti},
+  year={2024},
+  eprint={2401.06034},
+  archivePrefix={arXiv},
+  primaryClass={cs.CL},
+  abbr={ArXiv Preprint},
+  abstract={Pretrained language models (PLMs) have shown remarkable generalization toward multiple tasks and languages. Nonetheless, the generalization of PLMs towards unseen languages is poor, resulting in significantly worse language performance, or even generating nonsensical responses that are comparable to a random baseline. This limitation has been a longstanding problem of PLMs raising the problem of diversity and equal access to language modeling technology. In this work, we solve this limitation by introducing LinguAlchemy, a regularization technique that incorporates various aspects of languages covering typological, geographical, and phylogenetic constraining the resulting representation of PLMs to better characterize the corresponding linguistics constraints. LinguAlchemy significantly improves the accuracy performance of mBERT and XLM-R on unseen languages by ~18% and ~2%, respectively compared to fully finetuned models and displaying a high degree of unseen language generalization. We further introduce AlchemyScale and AlchemyTune, extension of LinguAlchemy which adjusts the linguistic regularization weights automatically, alleviating the need for hyperparameter search. LinguAlchemy enables better cross-lingual generalization to unseen languages which is vital for better inclusivity and accessibility of PLMs.},
+  url={https://arxiv.org/pdf/2401.06034v2},
+  pdf={https://arxiv.org/pdf/2401.06034v2},
+  selected={true},
+  bibtex_show  = {true},
 }
 
-@article{einstein1950meaning,
-  abbr={AJP},
-  bibtex_show={true},
-  title={The meaning of relativity},
-  author={Einstein, Albert and Taub, AH},
-  journal={American Journal of Physics},
-  volume={18},
-  number={6},
-  pages={403--404},
-  year={1950},
-  publisher={American Association of Physics Teachers}
+@misc{adilazuarda2024measuring,
+  title={Towards Measuring and Modeling "Culture" in LLMs: A Survey}, 
+  author={Muhammad Farid Adilazuarda and Sagnik Mukherjee and Pradhyumna Lavania and Siddhant Singh and Ashutosh Dwivedi and Alham Fikri Aji and Jacki O'Neill and Ashutosh Modi and Monojit Choudhury},
+  year={2024},
+  eprint={2403.15412},
+  archivePrefix={arXiv},
+  primaryClass={cs.CY},
+  abstract={We present a survey of 55 recent papers that aim to study cultural representation and inclusion in large language models. We observe that none of the studies define "culture," which is a complex, multifaceted concept; instead, they probe the models on some specially designed datasets which represent certain aspects of "culture." We call these aspects the proxies of cultures, and organize them across three dimensions of demographic, semantic and linguistic-cultural interaction proxies. We also categorize the probing methods employed. Our analysis indicates that only certain aspects of "culture," such as values and objectives, have been studied, leaving several other interesting and important facets, especially the multitude of semantic domains (Thompson et al., 2020) and aboutness (Hershcovich et al., 2022), unexplored. Two other crucial gaps are the lack of robustness and situatedness of the current methods. Based on these observations, we provide several recommendations for a holistic and practically useful research agenda for furthering cultural inclusion in LLMs and LLM-based applications.},
+  abbr={ArXiv Preprint},
+  url={https://arxiv.org/pdf/2403.15412},
+  pdf={https://arxiv.org/pdf/2403.15412},
+  selected={true},
 }
 
-@article{PhysRev.47.777,
-  abbr={PhysRev},
-  title={Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
-  author={Einstein, A. and Podolsky, B. and Rosen, N.},
-  abstract={In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.},
-  journal={Phys. Rev.},
-  volume={47},
-  issue={10},
-  pages={777--780},
-  numpages={0},
-  year={1935},
-  month={May},
-  publisher=aps,
-  doi={10.1103/PhysRev.47.777},
-  url={http://link.aps.org/doi/10.1103/PhysRev.47.777},
-  html={https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
-  pdf={example_pdf.pdf},
-  altmetric={248277},
-  dimensions={true},
-  google_scholar_id={qyhmnyLat1gC},
-  selected={true}
+@misc{adilazuarda2023obscure,
+  title={The Obscure Limitation of Modular Multilingual Language Models}, 
+  author={Muhammad Farid Adilazuarda and Samuel Cahyawijaya and Ayu Purwarianti},
+  year={2023},
+  eprint={2311.12375},
+  archivePrefix={arXiv},
+  primaryClass={cs.CL},
+  abbr={Tiny Papers @ICLR 2023},
+  abstract={We expose the limitation of modular multilingual language models (MLMs) in multilingual inference scenarios with unknown languages. Existing evaluations of modular MLMs exclude the involvement of language identification (LID) modules, which obscures the performance of real-case multilingual scenarios of modular MLMs. In this work, we showcase the effect of adding LID on the multilingual evaluation of modular MLMs and provide discussions for closing the performance gap of caused by the pipelined approach of LID and modular MLMs.},
+  url={https://arxiv.org/pdf/2311.12375},
+  pdf={https://arxiv.org/pdf/2311.12375},
+  selected={true},
+  bibtex_show  = {true},
 }
 
-@article{einstein1905molekularkinetischen,
-  title={{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
-  author={Einstein, A.},
-  journal={Annalen der physik},
-  volume={322},
-  number={8},
-  pages={549--560},
-  year={1905},
-  publisher={Wiley Online Library}
+@misc{adilazuarda2024turing,
+  title={Beyond Turing: A Comparative Analysis of Approaches for Detecting Machine-Generated Text}, 
+  author={Muhammad Farid Adilazuarda},
+  year={2024},
+  eprint={2311.12373},
+  archivePrefix={arXiv},
+  primaryClass={cs.CL},
+  abbr={TrustNLP @NAACL 2024},
+  abstract={Significant progress has been made on text generation by pre-trained language models (PLMs), yet distinguishing between human and machine-generated text poses an escalating challenge. This paper offers an in-depth evaluation of three distinct methods used to address this task: traditional shallow learning, Language Model (LM) fine-tuning, and Multilingual Model fine-tuning. These approaches are rigorously tested on a wide range of machine-generated texts, providing a benchmark of their competence in distinguishing between human-authored and machine-authored linguistic constructs. The results reveal considerable differences in performance across methods, thus emphasizing the continued need for advancement in this crucial area of NLP. This study offers valuable insights and paves the way for future research aimed at creating robust and highly discriminative models.},
+  url={https://arxiv.org/pdf/2311.12373},
+  pdf={https://arxiv.org/pdf/2311.12373},
+  selected={true},
+  bibtex_show  = {true},
 }
 
-@article{einstein1905movement,
-  abbr={Ann. Phys.},
-  title={Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
-  author={Einstein, A.},
-  journal={Ann. Phys.},
-  volume={17},
-  pages={549--560},
-  year={1905}
-}
-
-@article{einstein1905electrodynamics,
-  title={On the electrodynamics of moving bodies},
-  author={Einstein, A.},
-  year={1905}
-}
-
-@book{przibram1967letters,
-  bibtex_show={true},
-  title={Letters on wave mechanics},
-  author={Einstein, Albert and Schrödinger, Erwin and Planck, Max and Lorentz, Hendrik Antoon and Przibram, Karl},
-  year={1967},
-  publisher={Vision},
-  preview={wave-mechanics.gif}
+@inproceedings{cahyawijaya-etal-2023-nusacrowd,
+  title = "{N}usa{C}rowd: Open Source Initiative for {I}ndonesian {NLP} Resources",
+  author = "Cahyawijaya, Samuel  and
+    Lovenia, Holy  and
+    Aji, Alham Fikri  and
+    Winata, Genta  and
+    Wilie, Bryan  and
+    Koto, Fajri  and
+    Mahendra, Rahmad  and
+    Wibisono, Christian  and
+    Romadhony, Ade  and
+    Vincentio, Karissa  and
+    Santoso, Jennifer  and
+    Moeljadi, David  and
+    Wirawan, Cahya  and
+    Hudi, Frederikus  and
+    Wicaksono, Muhammad Satrio  and
+    Parmonangan, Ivan  and
+    Alfina, Ika  and
+    Putra, Ilham Firdausi  and
+    Rahmadani, Samsul  and
+    Oenang, Yulianti  and
+    Septiandri, Ali  and
+    Jaya, James  and
+    Dhole, Kaustubh  and
+    Suryani, Arie  and
+    Putri, Rifki Afina  and
+    Su, Dan  and
+    Stevens, Keith  and
+    Nityasya, Made Nindyatama  and
+    Adilazuarda, Muhammad  and
+    Hadiwijaya, Ryan  and
+    Diandaru, Ryandito  and
+    Yu, Tiezheng  and
+    Ghifari, Vito  and
+    Dai, Wenliang  and
+    Xu, Yan  and
+    Damapuspita, Dyah  and
+    Wibowo, Haryo  and
+    Tho, Cuk  and
+    Karo Karo, Ichwanul  and
+    Fatyanosa, Tirana  and
+    Ji, Ziwei  and
+    Neubig, Graham  and
+    Baldwin, Timothy  and
+    Ruder, Sebastian  and
+    Fung, Pascale  and
+    Sujaini, Herry  and
+    Sakti, Sakriani  and
+    Purwarianti, Ayu",
+  editor = "Rogers, Anna  and
+    Boyd-Graber, Jordan  and
+    Okazaki, Naoaki",
+  booktitle = "Findings of the Association for Computational Linguistics: ACL 2023",
+  month = jul,
+  year = "2023",
+  address = "Toronto, Canada",
+  publisher = "Association for Computational Linguistics",
+  url = "https://aclanthology.org/2023.findings-acl.868",
+  doi = "10.18653/v1/2023.findings-acl.868",
+  pages = "13745--13818",
+  abbr={Findings @ACL 2023},
+  abstract = "We present NusaCrowd, a collaborative initiative to collect and unify existing resources for Indonesian languages, including opening access to previously non-public resources. Through this initiative, we have brought together 137 datasets and 118 standardized data loaders. The quality of the datasets has been assessed manually and automatically, and their value is demonstrated through multiple experiments.NusaCrowd{'}s data collection enables the creation of the first zero-shot benchmarks for natural language understanding and generation in Indonesian and the local languages of Indonesia. Furthermore, NusaCrowd brings the creation of the first multilingual automatic speech recognition benchmark in Indonesian and the local languages of Indonesia. Our work strives to advance natural language processing (NLP) research for languages that are under-represented despite being widely spoken.",
+  url={https://aclanthology.org/2023.findings-acl.868v2.pdf},
+  pdf={https://aclanthology.org/2023.findings-acl.868v2.pdf},
+  selected={true},
+  bibtex_show  = {true},
 }

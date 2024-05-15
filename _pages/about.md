@@ -2,24 +2,18 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Hi, I'm Farid! 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a researcher at the NLP Department in [MBZUAI](https://mbzuai.ac.ae/), Abu Dhabi, advised by <br>[Dr. Alham Fikri Aji](https://afaji.github.io/). Currently, I'm working Parameter-Efficient Learning, Multilinguality, and Multiculturalism of language models. Recently, I worked with [Prof. Monojit Choudhury](https://scholar.google.com/citations?hl=en&user=WR1ImCMAAAAJ&view_op=list_works) to systematically [survey](https://arxiv.org/pdf/2403.15412) the current Cultural research in Large Language Models (LLMs). 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In 2023, I graduated as a cum laude and the youngest graduate with a [Master's in Intelligent Systems](https://stei.itb.ac.id/program-pasca-sarjana/magister-informatika/) from Institut Teknologi Bandung, Indonesia. I had the opportunity to conduct research and collaborate with [Dr. Ayu Purwarianti](https://www.itb.ac.id/staf/profil/ayu-purwarianti), [Genta Indra Winata](https://gentawinata.com/), and [Samuel Cahyawijaya](https://samuelcahyawijaya.github.io/) on a project involving [unseen languages generalization](https://arxiv.org/pdf/2401.06034v2). In 2021, I graduated from Institut Teknologi Bandung with a B.S in Computer Science. My [undergraduate thesis](https://arxiv.org/pdf/2311.12405) on studying language models' code-mixing robustness in Indonesian local languages got published in the SUMEval Workshop in AACL 2022.

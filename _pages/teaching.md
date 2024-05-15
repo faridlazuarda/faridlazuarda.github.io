@@ -7,6 +7,14 @@ nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+#### Mohamed bin Zayed University of Artificial Intelligence
+Delivered tutorial and boilerplate code for the graduate courses:
+  - [Deep Learning for Natural Language Processing (NLP702)](https://github.com/dltraining/NLP702-2024/tree/main) instructed by Muhammad Abdul Mageed and Alham Fikri Aji.
+  - Delivered a lecture covering Mixture-of-Experts implementation in Large Language Models ([photo](https://drive.google.com/file/d/1Tsaur1nNoTmw3Yvt0UkbdlX9yfn8867j/view?usp=sharing)).
 
-Organize your courses by years, topics, or universities, however you like!
+#### Institut Teknologi Bandung
+Led and designed tutorials, marked assignments, demonstrated lab sessions for the undergraduate and graduate courses:
+  - Natural Language Processing (IF4072) instructed by Ayu Purwarianti.
+  - Advanced Machine Learning (IF4074) instructed by Masayu Leylia Khodera and Fariska Zakhralativa Ruskanda.
+  - Algorithm Strategy (IF2211) instructed by Rinaldi Munir, Dwi Hendratmo Widyantoro, and Nur Ulfa Maulidevi.
+  - Linear Algebra and Geometry (IF2123) instructed by Judhi Santoso.

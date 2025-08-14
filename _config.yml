@@ -2,12 +2,12 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Muhammad Farid Adilazuarda # the website title (if blank, full name will be used instead)
+title: Farid Adilazuarda # the website title (if blank, full name will be used instead)
 first_name: Muhammad
 middle_name: Farid
 last_name: Adilazuarda
 email: faridlazuarda@gmail.com
-description: "Muhammad Farid Adilazuarda is a researcher at MBZUAI specializing in Natural Language Processing (NLP), Parameter-Efficient Learning, and Multilingual and Multicultural NLP."
+description: "Farid Adilazuarda is a researcher at MBZUAI specializing in Natural Language Processing (NLP), Parameter-Efficient Learning, and Multilingual and Multicultural NLP."
 
 footer_text: >
   <br>Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with modified <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.

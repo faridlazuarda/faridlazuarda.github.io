@@ -19,7 +19,7 @@ My research asks a big question: how can we make language models better reasoner
 
 Before Edinburgh, I was a Research Assistant at [MBZUAI](https://mbzuai.ac.ae/) in Abu Dhabi and a visiting researcher at the [UKP Lab, TU Darmstadt](https://www.informatik.tu-darmstadt.de/ukp), where I worked on multilingual, multicultural, and parameter-efficient NLP—topics I still enjoy discussing!
 
-I know how much research success can depend on access and opportunity. If you’re from an underrepresented group and think a conversation might help, feel free to reach out by [email](mailto:farid.adilazuarda@mbzuai.ac.ae).
+I know how much research success can depend on access and opportunity. If you’re from an underrepresented group and think a conversation might help, feel free to reach out by [email](mailto:farid.adilazuarda@ed.ac.uk).
 
 
 <!-- I will join the [ILCC at the University of Edinburgh](https://web.inf.ed.ac.uk/ilcc) this fall! -->

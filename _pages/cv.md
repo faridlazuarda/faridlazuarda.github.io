@@ -1,79 +1,108 @@
 ---
 layout: cv
 permalink: /resume/
-title: résumé
+title: resume
 nav: true
 nav_order: 1
-cv_pdf: 140524_cv.pdf
-description: 
+description:
 toc:
   sidebar: left
 ---
+
 <!-- This will be rendered if no _data/cv.yml or assets/data/resume.json  -->
 <!-- Use header 2 for section titles -->
 
 ## Profile
+
 **Full Name** &nbsp;&nbsp;&nbsp;: Muhammad Farid Adilazuarda \
-**Contact** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: [farid.adilazuarda@mbzuai.ac.ae](mailto:farid.adilazuarda@mbzuai.ac.ae) 
+**Contact** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: [farid.adilazuarda@ed.ac.uk](mailto:farid.adilazuarda@ed.ac.uk) \
+**Focus** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: model memory, efficient inference, and evaluation for foundation models
 
+I am a PhD student at the University of Edinburgh advised by Edoardo Ponti and Alexandra Birch. My work focuses on model memory, efficient inference, and evaluation for foundation models.
 
+## Current Research
 
-## 🎓 Education
+**Culturally Grounded World-Model Evaluation** _(2026 - present)_
+
+- Developing a Google DeepMind-funded benchmark for evaluating culturally grounded video and world models.
+- Focused on the intersection of cultural grounding, temporal continuation, and real-world event understanding.
+
+**Efficient Memory for Long-Context Inference** _(2026 - present)_
+
+- Studying adaptive memory compression for long-context foundation models.
+- Focused on context retention, compression, and inference efficiency in long-context models.
+
+## Education
+
+**PhD in Informatics**
+
+- [University of Edinburgh](https://www.ed.ac.uk/), United Kingdom _(current)_
+- Advised by [Edoardo Ponti](https://ducdauge.github.io/) and [Alexandra Birch](https://sites.google.com/view/alexandra-birch/).
+
 **Master of Science** in System Intelligence
-  - [Informatics ITB](https://stei.itb.ac.id/program-pasca-sarjana/magister-informatika/), Institut Teknologi Bandung, Indonesia *(Aug 2022 - Oct 2023)*
+
+- [Informatics ITB](https://stei.itb.ac.id/program-pasca-sarjana/magister-informatika/), Institut Teknologi Bandung, Indonesia _(Aug 2022 - Oct 2023)_
 
 **Bachelor of Science** in Computer Science
-  - [STEI ITB](https://stei.itb.ac.id/en/home/), Institut Teknologi Bandung, Indonesia *(Aug 2018 - Jul 2022)*
 
+- [STEI ITB](https://stei.itb.ac.id/en/home/), Institut Teknologi Bandung, Indonesia _(Aug 2018 - Jul 2022)_
 
+## Research & Work Experience
 
-## 💼 Research & Work Experiences
-**Research Assistant** @ [MBZUAI.](https://mbzuai.ac.ae/), Abu Dhabi *(Nov 2023 - Present)* \
-*- The world’s first specialized research-based AI university*
-  - Advised by [Alham Fikri Aji](https://afaji.github.io/) and [Monojit Choudhury](https://scholar.google.com/citations?hl=en&user=WR1ImCMAAAAJ&view_op=list_works&sortby=pubdate) 
-  - Currently engaged in research aimed at cultural preservation and language modelling for low-resource Indonesian languages.
-  - Delivered tutorial on the Mixture-of-Experts concept in the Natural Language Processing postgraduate-level course.
-  - Awarded a $30k Microsoft Research Grant for research in cultural understanding and evaluation in NLP.
+**Research Assistant** @ [MBZUAI](https://mbzuai.ac.ae/), Abu Dhabi _(Nov 2023 - 2025)_
 
-**AI Team Lead and Venture Analyst** @ [Sevenpreneur](https://sevenpreneur.com/) *(Jan 2023 - Aug 2023)* \
-*- Entrepreneurial organisation driving SME growth by connecting people and VCs*
-  - Spearheaded a team of 4 AI engineers and analysts to create the first Indonesian AI-Driven company.
-  - Delivered expert data science consulting services.
+- Advised by [Alham Fikri Aji](https://afaji.github.io/) and [Monojit Choudhury](https://scholar.google.com/citations?hl=en&user=WR1ImCMAAAAJ&view_op=list_works&sortby=pubdate).
+- Worked on cultural preservation, language modeling, and evaluation for low-resource Indonesian languages.
+- Delivered a tutorial on Mixture-of-Experts in a postgraduate NLP course.
+- Awarded a $30k Microsoft Research Grant for work on cultural understanding and evaluation in NLP.
 
-**Research Assistant** @ [National Corruption Eradication Committee (KPK)](http://www.kpk.go.id/) *(July 2022 – Dec 2022)* \
-*- Indonesia’s Corruption Eradication Committee*
-  - Developed a machine learning model for gratification detection and anti-corruption efforts.
-  - Applied rigorous statistical analyses and advanced text embedding techniques for KPK’s public reporting framework.
+**Visiting Researcher** @ [UKP Lab, TU Darmstadt](https://www.informatik.tu-darmstadt.de/ukp) _(2024)_
 
-**Data Scientist** @ [Blibli.com](https://blibli.com/) *(July 2021 – Aug 2021)* \
-*- One of the biggest Indonesian E-commerce*
-  - Led critical projects in seller and chat spam & fraud detection.
-  - Orchestrated a price anomaly detection initiative during the pandemic.
+- Worked on parameter-efficient modules and multilingual NLP.
+- Supervised by [Iryna Gurevych](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp/index.en.jsp).
 
+**AI Team Lead and Venture Analyst** @ [Sevenpreneur](https://sevenpreneur.com/) _(Jan 2023 - Aug 2023)_
 
+- Led a team of 4 AI engineers and analysts.
+- Delivered data science consulting and venture analysis for Indonesian SMEs.
 
-## 🗃️ Professional Activities
-- **Conference Reviewer** : ACL’24, NAACL’24, EMNLP’24, COLM’24, ACM COMPASS’24
-- **Student Volunteer** &nbsp;&nbsp;&nbsp;&nbsp; : AACL 2023
+**Research Assistant** @ [National Corruption Eradication Committee (KPK)](http://www.kpk.go.id/) _(Jul 2022 - Dec 2022)_
 
+- Developed a machine learning model for gratification detection and anti-corruption analysis.
+- Applied statistical analysis and text embedding methods to KPK public-reporting data.
 
+**Data Scientist** @ [Blibli.com](https://blibli.com/) _(Jul 2021 - Aug 2021)_
 
-## 🏆 Honors & Awards
+- Worked on seller, chat spam, fraud detection, and price anomaly detection.
+
+## Professional Activities
+
+- **Conference Reviewer**: ACL 2024/2025, NAACL 2024, EMNLP 2024/2025, COLM 2024, ACM COMPASS 2024
+- **Student Volunteer**: AACL 2023
+
+## Honors & Awards
+
+- **Google DeepMind funding for Multicultural World Model Grounding Benchmark** _(2026)_ <br>
+  Funding to build a culturally grounded video/world-model benchmark and its data collection platform.
+
+- **Microsoft Research Grant for cultural understanding and NLP evaluation** _(2024)_ <br>
+  Awarded while working at MBZUAI.
+
 - **Semifinalist, DAC ITS Data Analytics Competition** _(Regional)_ <br>
-  Achieved 3rd place in the preliminary stage among 30 teams across Southeast Asia. Developed a residence recommender system using LGBM with an 82% F1 score.
+  Achieved 3rd place in the preliminary stage among 30 teams across Southeast Asia.
 
 - **Finalist, GEMASTIK 13 Data Mining Competition** _(National)_ <br>
-  Ranked in the top 20 out of 300+ teams from 113 colleges across Indonesia. One of the first systems in Indonesia to detect mask usage during the pandemic.
+  Ranked in the top 20 out of 300+ teams from 113 colleges across Indonesia.
 
 - **Semifinalist, Kata Hack 2.0 AI Innovation Competition** _(National)_ <br>
-  Placed in the top 15 nationwide. Developed "Orama," a chatbot-based application designed to enhance education for children with low vision.
+  Placed in the top 15 nationwide.
 
 - **Best Team, Software Engineering Academy COMPFEST 12** _(National)_ <br>
-  Secured first place among all teams at the camp. Created an E-Commerce application using best practices, microservices, and agile methodologies.
+  Secured first place among all teams at the camp.
 
+## Skills & Interests
 
-
-## 💡 Skills & Interests
-**Technical** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Python (TensorFlow, PyTorch), Tableau, SQL, JavaScript, C++ \
+**Technical** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Python, PyTorch, TypeScript, JavaScript, SQL, C++ \
+**Research** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: efficient inference, KV-cache compression, model evaluation, multilingual NLP, culturally grounded evaluation \
 **Languages** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <ins>Javanese</ins>, Indonesian, English (IELTS Academic: 8.0) \
 **Interests** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Tennis, Football, Cooking

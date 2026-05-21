@@ -7,12 +7,12 @@ first_name: Muhammad
 middle_name: Farid
 last_name: Adilazuarda
 email: faridlazuarda@gmail.com
-description: "Farid Adilazuarda is a PhD candidate at the University of Edinburgh, specialising in large language model (LLM) inference efficiency, memory architectures, and world modelling."
+description: "Farid Adilazuarda is a PhD student at the University of Edinburgh working on model memory, efficient inference, and evaluation for foundation models."
 
 footer_text: >
   <br>Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with modified <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   <br>Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: artificial-intelligence, nlp, researcher, machine-learning # add your own keywords or leave empty
+keywords: artificial-intelligence, nlp, researcher, machine-learning, efficient-inference, model-memory, model-evaluation, multilingual-nlp # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 📚 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -100,7 +100,7 @@ whatsapp_number: # your WhatsApp number (full phone number in international form
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
 work_url: # work page URL
-x_username: 
+x_username:
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
@@ -124,8 +124,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name:  # blog_name will be displayed in your blog page
-blog_description: 
+blog_name: # blog_name will be displayed in your blog page
+blog_description:
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -152,7 +152,7 @@ giscus:
   lang: en
 
 # Disqus comments (DEPRECATED)
-disqus_shortname:  # put your disqus shortname
+disqus_shortname: # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.

@@ -130,10 +130,10 @@ permalink: /blog/:year/:title/
 
 # Pagination
 pagination:
-  enabled: true
+  enabled: false
 
 related_blog_posts:
-  enabled: true
+  enabled: false
   max_related: 5
 
 # Giscus comments (RECOMMENDED)
@@ -158,9 +158,7 @@ disqus_shortname: # put your disqus shortname
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
+external_sources: []
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -206,6 +204,7 @@ kramdown:
 # Includes & excludes
 include: ["_pages"]
 exclude:
+  - _posts/
   - bin/
   - CONTRIBUTING.md
   - CUSTOMIZE.md
@@ -225,6 +224,27 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  # Unused inherited al-folio demo assets.
+  - assets/audio/
+  - assets/bibliography/2018-12-22-distill.bib
+  - assets/html/
+  - assets/img/prof_pic1.jpg
+  - assets/jupyter/
+  - assets/json/table_data.json
+  - assets/js/distillpub/
+  - assets/plotly/
+  - assets/video/
+  # Development-only source maps.
+  - assets/css/bootstrap.min.css.map
+  - assets/css/jupyter.css
+  - assets/css/jupyter-grade3.css
+  - assets/css/jupyter-monokai.css
+  - assets/css/mdb.min.css.map
+  - assets/js/bootstrap.bundle.min.js.map
+  - assets/js/jupyter_new_tab.js
+  - assets/js/masonry.js
+  - assets/js/mdb.min.js.map
+  - assets/js/zoom.js
 keep_files:
   - CNAME
   - .nojekyll
@@ -255,6 +275,7 @@ defaults:
 
 sass:
   style: compressed
+  sourcemap: never
 
 # -----------------------------------------------------------------------------
 # Jekyll Minifier
@@ -379,13 +400,13 @@ enable_google_analytics: false # enables google analytics
 enable_cronitor_analytics: false # enables cronitor RUM analytics
 enable_google_verification: true # enables google site verification
 enable_bing_verification: false # enables bing site verification
-enable_masonry: true # enables automatic project cards arrangement
+enable_masonry: false # enables automatic project cards arrangement
 enable_math: true # enables math typesetting (uses MathJax)
 enable_tooltips: false # enables automatic tooltip links generated for each section titles on pages and posts
 enable_darkmode: true # enables switching between light/dark modes
 enable_navbar_social: true # enables displaying social links in the navbar on the about page
 enable_project_categories: true # enables categorization of projects into multiple categories
-enable_medium_zoom: true # enables image zoom feature (as on medium.com)
+enable_medium_zoom: false # enables image zoom feature (as on medium.com)
 enable_progressbar: true # enables a horizontal progress bar linked to the vertical scroll position
 
 # -----------------------------------------------------------------------------

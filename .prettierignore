@@ -1,6 +1,25 @@
+_site/
+.jekyll-cache/
+.sass-cache/
+node_modules/
+vendor/
+
+# Generated, vendored, or Liquid-backed assets.
 **/*.min.css
 **/*.min.js
 assets/css/main.scss
 assets/plotly/demo.html
+
+# Upstream template docs and demo assets that are not part of the live site.
+README.md
+FAQ.md
+INSTALL.md
+CUSTOMIZE.md
+readme_preview/
+_posts/
+assets/plotly/
+assets/js/distillpub/
 lighthouse_results/**
-_posts/2015-10-20-math.md
+
+# Keep verification files byte-stable.
+google0e7fedd70927b7a3.html

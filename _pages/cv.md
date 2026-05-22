@@ -66,7 +66,7 @@ I am a PhD student at the University of Edinburgh advised by Edoardo Ponti and A
 - Led a team of 4 AI engineers and analysts.
 - Delivered data science consulting and venture analysis for Indonesian SMEs.
 
-**Research Assistant** @ [National Corruption Eradication Committee (KPK)](http://www.kpk.go.id/) _(Jul 2022 - Dec 2022)_
+**Research Assistant** @ [National Corruption Eradication Committee (KPK)](https://www.kpk.go.id/id/) _(Jul 2022 - Dec 2022)_
 
 - Developed a machine learning model for gratification detection and anti-corruption analysis.
 - Applied statistical analysis and text embedding methods to KPK public-reporting data.

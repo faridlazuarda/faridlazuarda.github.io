@@ -57,6 +57,7 @@ jobs:
             --exclude-path _pages/404.md
             --exclude-path _pages/blog.md
             --exclude-path _posts
+            --exclude 'https://www.kpk.go.id/.*'
             --verbose
             --no-progress
             './**/*.md'

@@ -3,8 +3,8 @@
 # -----------------------------------------------------------------------------
 
 title: Farid Adilazuarda # the website title (if blank, full name will be used instead)
-first_name: Muhammad
-middle_name: Farid
+first_name: Farid
+middle_name:
 last_name: Adilazuarda
 email: faridlazuarda@gmail.com
 description: "Farid Adilazuarda is a PhD student at the University of Edinburgh working on long-term memory in world models, efficient inference, and evaluation for foundation models."
@@ -310,7 +310,7 @@ display_categories: ["blockquotes"] # these categories will be displayed on the 
 
 scholar:
   last_name: [Adilazuarda]
-  first_name: [Muhammad Farid, Farid, M. Farid, Muhammad]
+  first_name: [Farid, Muhammad Farid, M. Farid, Muhammad]
 
   style: apa
   locale: en

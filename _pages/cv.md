@@ -14,7 +14,7 @@ toc:
 
 ## Profile
 
-**Full Name** &nbsp;&nbsp;&nbsp;: Muhammad Farid Adilazuarda \
+**Full Name** &nbsp;&nbsp;&nbsp;: Farid Adilazuarda \
 **Contact** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: [farid.adilazuarda@ed.ac.uk](mailto:farid.adilazuarda@ed.ac.uk) \
 **Focus** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: long-term memory in world models, efficient inference, and evaluation
 

@@ -24,7 +24,7 @@ I am a PhD student at the University of Edinburgh advised by Edoardo Ponti, Alex
 
 **Culturally Grounded World-Model Evaluation** _(2026 - present)_
 
-- Developing a Google DeepMind-funded benchmark for evaluating culturally grounded video and world models.
+- Developing a benchmark for evaluating culturally grounded video and world models, supported by a Google DeepMind gift.
 - Focused on the intersection of cultural grounding, temporal continuation, and real-world event understanding.
 
 **Efficient Memory for Long-Context Inference** _(2026 - present)_
@@ -90,8 +90,11 @@ I am a PhD student at the University of Edinburgh advised by Edoardo Ponti, Alex
 - **Best Theme Paper Award, NAACL 2025** _(2025)_ <br>
   For [WorldCuisines](https://arxiv.org/abs/2410.12705), a massive-scale multilingual and multicultural visual question answering benchmark.
 
-- **Google DeepMind funding for Multicultural World Model Grounding Benchmark** _(2026)_ <br>
-  Funding to build a culturally grounded video/world-model benchmark and its data collection platform.
+- **Google DeepMind gift for Multicultural World Model Grounding Benchmark** _(2026)_ <br>
+  Supports a culturally grounded video/world-model benchmark and its data collection platform.
+
+- **NVIDIA compute award, US$40,000** _(2026)_ <br>
+  Compute credits on NVIDIA Brev, an 8x A100 allocation, for world-model and long-context experiments.
 
 - **Microsoft Research Grant for cultural understanding and NLP evaluation** _(2024)_ <br>
   Awarded while working at MBZUAI.

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Received [Google DeepMind](https://deepmind.google/) funding to build a culturally grounded video and world-model benchmark, together with its data collection platform 🎉
+Received a [Google DeepMind](https://deepmind.google/) gift to build a culturally grounded video and world-model benchmark, together with its data collection platform 🎉

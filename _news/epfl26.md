@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started a research visit at [EPFL](https://www.epfl.ch/) in Lausanne 🇨🇭, hosted by [Antoine Bosselut](https://atcbosselut.github.io/) at the [NLP Lab](https://nlp.epfl.ch/), working on judge models and post-training.
+Started a research visit at [EPFL](https://www.epfl.ch/) in Lausanne 🇨🇭, hosted by [Antoine Bosselut](https://atcbosselut.github.io/) at the [NLP Lab](https://nlp.epfl.ch/), working on judge models and post-training. The visit is supported by the [Swiss AI Initiative](https://www.swiss-ai.org/).

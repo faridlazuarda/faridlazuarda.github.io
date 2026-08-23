@@ -53,6 +53,7 @@ I am a PhD student at the University of Edinburgh advised by Edoardo Ponti, Alex
 
 - Hosted by [Antoine Bosselut](https://atcbosselut.github.io/) at the [NLP Lab](https://nlp.epfl.ch/).
 - Working on judge models and post-training.
+- Supported by a [Swiss AI Initiative](https://www.swiss-ai.org/) scholarship.
 
 **Research Assistant** @ [MBZUAI](https://mbzuai.ac.ae/), Abu Dhabi _(Nov 2023 - 2025)_
 

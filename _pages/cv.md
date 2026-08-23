@@ -52,7 +52,7 @@ I am a PhD student at the University of Edinburgh advised by Edoardo Ponti, Alex
 **Visiting Researcher** @ [EPFL](https://www.epfl.ch/), Lausanne _(Sep 2026 - Dec 2026)_
 
 - Hosted by [Antoine Bosselut](https://atcbosselut.github.io/) at the [NLP Lab](https://nlp.epfl.ch/).
-- Working on memory mechanisms and long-context efficiency in foundation models.
+- Working on judge models and post-training.
 
 **Research Assistant** @ [MBZUAI](https://mbzuai.ac.ae/), Abu Dhabi _(Nov 2023 - 2025)_
 
@@ -90,11 +90,8 @@ I am a PhD student at the University of Edinburgh advised by Edoardo Ponti, Alex
 - **Best Theme Paper Award, NAACL 2025** _(2025)_ <br>
   For [WorldCuisines](https://arxiv.org/abs/2410.12705), a massive-scale multilingual and multicultural visual question answering benchmark.
 
-- **Google DeepMind gift for Multicultural World Model Grounding Benchmark** _(2026)_ <br>
-  Supports a culturally grounded video/world-model benchmark and its data collection platform.
-
-- **NVIDIA compute award, US$40,000** _(2026)_ <br>
-  Compute credits on NVIDIA Brev, an 8x A100 allocation, for world-model and long-context experiments.
+- **Google DeepMind gift and 40k NVIDIA GPU hours for Multicultural World Model Grounding Benchmark** _(2026)_ <br>
+  Supports a culturally grounded video/world-model benchmark and its data collection platform. NVIDIA compute is an 8x A100 allocation on Brev.
 
 - **Microsoft Research Grant for cultural understanding and NLP evaluation** _(2024)_ <br>
   Awarded while working at MBZUAI.

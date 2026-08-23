@@ -16,9 +16,9 @@ toc:
 
 **Full Name** &nbsp;&nbsp;&nbsp;: Muhammad Farid Adilazuarda \
 **Contact** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: [farid.adilazuarda@ed.ac.uk](mailto:farid.adilazuarda@ed.ac.uk) \
-**Focus** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: model memory, efficient inference, and evaluation for foundation models
+**Focus** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: long-term memory in world models, efficient inference, and evaluation
 
-I am a PhD student at the University of Edinburgh advised by Edoardo Ponti and Alexandra Birch. My work focuses on model memory, efficient inference, and evaluation for foundation models.
+I am a PhD student at the University of Edinburgh advised by Edoardo Ponti, Alexandra Birch, and Ivan Titov. My work focuses on long-term memory mechanisms in world models, efficient inference, and evaluation for foundation models. From September to December 2026 I am a visiting researcher at EPFL, hosted by Antoine Bosselut.
 
 ## Current Research
 
@@ -36,8 +36,8 @@ I am a PhD student at the University of Edinburgh advised by Edoardo Ponti and A
 
 **PhD in Informatics**
 
-- [University of Edinburgh](https://www.ed.ac.uk/), United Kingdom _(current)_
-- Advised by [Edoardo Ponti](https://ducdauge.github.io/) and [Alexandra Birch](https://sites.google.com/view/alexandra-birch/).
+- [University of Edinburgh](https://www.ed.ac.uk/), United Kingdom _(Sep 2025 - present)_
+- Advised by [Edoardo Ponti](https://ducdauge.github.io/), [Alexandra Birch](https://sites.google.com/view/alexandra-birch/), and [Ivan Titov](http://ivan-titov.org/).
 
 **Master of Science** in System Intelligence
 
@@ -48,6 +48,11 @@ I am a PhD student at the University of Edinburgh advised by Edoardo Ponti and A
 - [STEI ITB](https://stei.itb.ac.id/en/home/), Institut Teknologi Bandung, Indonesia _(Aug 2018 - Jul 2022)_
 
 ## Research & Work Experience
+
+**Visiting Researcher** @ [EPFL](https://www.epfl.ch/), Lausanne _(Sep 2026 - Dec 2026)_
+
+- Hosted by [Antoine Bosselut](https://atcbosselut.github.io/) at the [NLP Lab](https://nlp.epfl.ch/).
+- Working on memory mechanisms and long-context efficiency in foundation models.
 
 **Research Assistant** @ [MBZUAI](https://mbzuai.ac.ae/), Abu Dhabi _(Nov 2023 - 2025)_
 
@@ -81,6 +86,9 @@ I am a PhD student at the University of Edinburgh advised by Edoardo Ponti and A
 - **Student Volunteer**: AACL 2023
 
 ## Honors & Awards
+
+- **Best Theme Paper Award, NAACL 2025** _(2025)_ <br>
+  For [WorldCuisines](https://arxiv.org/abs/2410.12705), a massive-scale multilingual and multicultural visual question answering benchmark.
 
 - **Google DeepMind funding for Multicultural World Model Grounding Benchmark** _(2026)_ <br>
   Funding to build a culturally grounded video/world-model benchmark and its data collection platform.

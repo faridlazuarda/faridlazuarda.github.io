@@ -20,7 +20,10 @@ jobs:
       - name: Setup Node.js ⚙️
         uses: actions/setup-node@v4
       - name: Install Prettier 💾
-        run: npm install --save-dev --save-exact prettier @shopify/prettier-plugin-liquid
+        # Install from the lockfile, not the latest release. Unpinned installs made CI
+        # disagree with the versions in package.json: plugin 1.11.0 reindents
+        # _layouts/bib.liquid, so the check went red on an untouched file.
+        run: npm ci
       - name: Prettier Check 🔎
         id: prettier
         run: npx prettier . --check

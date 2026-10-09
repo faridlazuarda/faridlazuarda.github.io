@@ -97,6 +97,9 @@ I am a PhD student at the University of Edinburgh advised by Edoardo Ponti, Alex
 - **Microsoft Research Grant for cultural understanding and NLP evaluation** _(2024)_ <br>
   Awarded while working at MBZUAI.
 
+- **Outstanding Reviewer, EMNLP 2024** _(2024)_ <br>
+  Named in the [EMNLP 2024 proceedings](https://aclanthology.org/2024.emnlp-main.0.pdf) list of outstanding reviewers.
+
 - **Semifinalist, DAC ITS Data Analytics Competition** _(Regional)_ <br>
   Achieved 3rd place in the preliminary stage among 30 teams across Southeast Asia.
 
